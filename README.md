@@ -34,7 +34,7 @@ The system uses user-specific calorie calculations along with nutritional simila
 ---
 
 ## 🌐 Live Demo
-👉 [Click Here](https://your-streamlit-app-link.streamlit.app)
+👉 [Click Here](https://chandkund-personalized-meal-recommendation-syste-appmain-k3dduz.streamlit.app/)
 
 ---
 
