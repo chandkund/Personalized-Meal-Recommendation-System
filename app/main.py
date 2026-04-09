@@ -10,7 +10,7 @@ from src.recommend import get_meal_plan
 st.set_page_config(page_title="AI Meal Planner", layout="wide")
 
 # Title
-st.title("🍽️ AI Personalized Meal Planner")
+st.title("🍽️ Personalized Meal Planner")
 st.markdown("### 🧠 Smart Nutrition-Based Indian Meal Recommendation System")
 
 # Sidebar
